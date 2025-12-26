@@ -207,8 +207,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Data Scientist**: [Your Name]
-**Project Link**: [https://github.com/your-username/marketing-campaign-insight-analysis](https://github.com/your-username/marketing-campaign-insight-analysis)
+**Data Scientist**: Ritik Garg
+**Project Link**: [https://github.com/ritikgarg2468/Ad-Campaign-Performance-Analytics-Dashboard.git](https://github.com/ritikgarg2468/Ad-Campaign-Performance-Analytics-Dashboard.git)
 
 For questions or collaborations, feel free to reach out!
 
